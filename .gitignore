@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.log
+
+# 运行时生成的本地配置（快捷指令），因人而异，不入库
+quick_cmds.json
+
+# 工作区本地数据
+.workbuddy/
